@@ -347,8 +347,7 @@ def subList(lst, pos, numelem):
     """ Retorna una sublista de la lista lst.
 
     Se retorna una lista que contiene los elementos a partir de la
-    posicion pos, con una longitud de numelem elementos.
-    Se crea una copia de dichos elementos y se retorna una lista nueva.
+    posicion pos, con una longitud de numelem elementos. Se crea una copia de dichos elementos y se retorna una lista nueva.
 
     Args:
         lst: La lista a examinar
